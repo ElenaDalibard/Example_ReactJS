@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+section {
+  margin: 15px;
+  width: 800px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.creer {
+  background-color:silver;
+}
+
+form {
+  margin: 10px;
+}
+.totalTasks {
+  width: 95%;
+  height: 50px;
+  margin: 20px;
+  background-color: skyblue;
+  justify-self: center;
+  text-align: left;
+  padding: 10px;
+}
+
+.todoline {
+  cursor: pointer;
+}
+
+.todoline div {
+  font-size: 20px;
+}
